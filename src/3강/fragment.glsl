@@ -9,7 +9,7 @@ vec3 green() {
 }
 
 void main() {
-    
+
     gl_FragColor = vec4(vec3(0.5), 1.0);
 }
 
@@ -17,5 +17,3 @@ void main() {
 // vec2, vec3, vec4
 // mat2, mat3, mat4
 // sampler2D, samplerCube
-
-

@@ -9,9 +9,9 @@ WebGL에 사용할 GLSL를 공부하기 위한 레포✏️
 - [x] 2강 : Shader의 정의
 - [x] 3강 : GLSL의 기본 구조
 - [x] 4강 : Uniform에 대하여
-- [ ] 5강 : gl_FragCoord
-- [ ] 6강 : smoothstep
-- [ ] 7강 : 내장함수 탐구
+- [x] 5강 : gl_FragCoord
+- [x] 6강 : smoothstep
+- [x] 7강 : 내장함수 탐구
 - [ ] 8강 : color
 - [ ] 9강 : atan
 - [ ] 10강 : qualifier
